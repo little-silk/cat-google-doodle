@@ -1,3 +1,101 @@
+body {
+  background-color: #414042;
+}
+
+.catPeeking {
+  fill: #010101;
+}
+
+.catPeekingWhiskers {
+  fill: #fff;
+}
+
+.catPeekingEyes {
+  fill: #9fa44c;
+}
+
+#secondO {
+  fill: #fabb05;
+}
+
+.redLetters {
+  fill: #e94335;
+}
+
+.blueLetters {
+  fill: #4284f3;
+}
+
+.orangeCatPaws {
+  fill: #e4a663;
+}
+
+.orangeBody {
+  fill: #fdc267;
+}
+
+.orangePawStripes {
+  fill: #d26737;
+}
+
+.orangeStripes {
+  fill: #f37e3e;
+}
+
+.clawMarks {
+  fill: #155a1f;
+}
+
+.scaredCatBlack {
+  fill: #020001;
+}
+
+#scaredCat,
+#scaredCat2 {
+  fill: white;
+}
+
+#scaredCat2 {
+  visibility: hidden;
+}
+
+.scaredCatOrange {
+  fill: #e28223;
+}
+
+.sleepingCat {
+  fill: #bbbdbf;
+}
+
+#sleepingCat2,
+#sleepingCat3,
+#sleepingCat4,
+#sleepingCat5,
+#sleepingCat6,
+#sleepingCat7 {
+  visibility: hidden;
+}
+
+.sleepingCatLines {
+  fill: #8b8b8c;
+}
+
+.sleepingCatMarkings {
+  fill: white;
+}
+
+.itchingCat {
+  fill: #ba9986;
+}
+
+.itchingCatMarkings {
+  fill: #3a2623;
+}
+
+.itchingCatWhiskers {
+  fill: #fff;
+}
+
 .catLickingOrange,
 .catLickingOrange2 {
   fill: #f6914f;
@@ -24,4 +122,44 @@
 .catLickingOrange2,
 .catLickingEye2 {
   visibility: hidden;
+}
+
+.catJumpLines {
+  fill: #82502e;
+}
+
+.catJumpDetails {
+  fill: #3a2623;
+}
+
+.catJumpWhiskers {
+  fill: #fff;
+}
+
+.catJumpEye {
+  fill: #baffae;
+}
+
+.catJump {
+  fill: #ad6c3c;
+}
+
+.restingCatPaws {
+  fill: #fff;
+}
+
+.restingCatMarkings {
+  fill: #6c7a87;
+}
+
+.restingCatEyes {
+  fill: #6dc1e2;
+}
+
+.restingCat {
+  fill: #e0e5e9;
+}
+
+.search {
+  text-align: center;
 }
