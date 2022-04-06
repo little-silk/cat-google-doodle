@@ -1,0 +1,27 @@
+.catLickingOrange,
+.catLickingOrange2 {
+  fill: #f6914f;
+}
+
+.catLicking,
+.catLicking2 {
+  fill: #ffd7b3;
+}
+
+.catLickingBrown,
+.catLickingBrown2 {
+  fill: #824624;
+}
+
+.catLickingTongue,
+.catLickingTongue2 {
+  fill: #ff3ec4;
+}
+
+.catLickingTongue2,
+.catLickingBrown2,
+.catLicking2,
+.catLickingOrange2,
+.catLickingEye2 {
+  visibility: hidden;
+}
